@@ -8,5 +8,3 @@ Then, install and run it on a variety of devices.
 
 
 [ Screenshot ] 
-
-![image](https://github.com/AirenSoft-WebRTC-build/codec-tester-android/assets/21077363/ea0469da-6b65-4fde-86aa-b7f6bdc76f06)
